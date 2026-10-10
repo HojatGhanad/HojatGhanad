@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="176" viewBox="0 0 820 176" role="img" aria-label="Open Server Side First Party Event Relay: open-source first-party tracking relay for server-side Google Tag Manager">
+<defs><pattern id="air" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="6" height="20" fill="#CF222E"/><rect x="10" width="6" height="20" fill="#0969DA"/></pattern>
+<clipPath id="r"><rect width="820" height="176" rx="14"/></clipPath></defs>
+<g clip-path="url(#r)">
+<rect width="820" height="176" fill="#FFFFFF"/>
+<rect width="820" height="6" fill="url(#air)"/>
+</g>
+<rect x=".5" y=".5" width="819" height="175" rx="14" fill="none" stroke="#D1D9E0"/>
+<g transform="translate(32 40)">
+  <rect x="0" y="4" width="34" height="24" rx="4" fill="none" stroke="#1F2328" stroke-width="2.2"/>
+  <path d="M2 7 17 18 32 7" fill="none" stroke="#CF222E" stroke-width="2.4" stroke-linejoin="round"/>
+</g>
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <text x="82" y="64" font-size="24" font-weight="600" fill="#0969DA">Open Server Side First Party Event Relay</text>
+  <text x="32" y="104" font-size="17" fill="#59636E">Self-hosted first-party tracking relay for server-side Google Tag Manager.</text>
+  <text x="32" y="128" font-size="17" fill="#59636E">GA4 and Google Ads events through your own domain. A free Stape alternative.</text>
+  <circle cx="38" cy="152" r="6" fill="#B07219"/>
+  <text x="52" y="157" font-size="15" fill="#59636E">Java</text>
+  <text x="104" y="157" font-size="15" fill="#59636E">MIT license</text>
+  <text x="200" y="157" font-size="15" fill="#59636E">Docker</text>
+</g>
+</svg>
